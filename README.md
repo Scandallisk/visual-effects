@@ -26,7 +26,7 @@ Next, add them to the following directory:
 1. Login as an administration character (GOD)
 2. Right click on an object and select 'God Info'
 3. Select the 'Behaviors' button.
-4. Type the file name of one of the scripts you have downloaded.
+4. Type the file name of one of the scripts you have downloaded.  (ex. ai_effect_lightningbolt)
 5. The visual effect loop will fire off and should begin displaying on the object.
 
 ### Notes from the developer
